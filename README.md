@@ -1,0 +1,2 @@
+# Puppeteer_JavaScript_Framework
+This repository consists of the code base for the Puppeteer_JavaScript_Framework which is developed using Amazon Web services , JavaScript and Puppeteer automation framework .  This Puppeteer automation framework is utilized to deploy CloudWatch Synthetic canaries which will monitor the performance of the web applications , Application programming Interface and Databases 
